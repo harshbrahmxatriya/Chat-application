@@ -1,0 +1,6 @@
+.display-chat,
+.send-text,
+.plain-page {
+    background-image: url('./chat-bg.jpg');
+    background-repeat: repeat;
+}
